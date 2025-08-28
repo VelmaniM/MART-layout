@@ -57,7 +57,7 @@ span {
 
 /* mart image page*/
 .mart-main-img {
-  background-image: url(/image/sec-1.png);
+  background-image: url(image/sec-1.png);
   height: 33vw;
   justify-items: center;
   align-content: center;
@@ -209,7 +209,7 @@ span {
 /* sale banner page */
 .Sale-banner {
   height: 20vw;
-  background-image: url(/image/sale.png);
+  background-image: url(image/sale.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -291,7 +291,7 @@ h6 {
   margin-top: 3vw;
   display: flex;
   height: 25vw;
-  background-image: url(/image/green\ back.png);
+  background-image: url(image/green\ back.png);
   justify-content: center;
   align-items: center;
   background-size: cover;
@@ -435,7 +435,7 @@ input {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-image: url(/image/worldmap.png);
+  background-image: url(image/worldmap.png);
 }
 .footer-content {
   width: 90%;
